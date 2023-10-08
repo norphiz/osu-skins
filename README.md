@@ -1,2 +1,1 @@
-# osu-skins
-osu! skins
+My collection of osu! skins
