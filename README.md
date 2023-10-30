@@ -4,4 +4,4 @@
 
 ## [skwyn](https://github.com/norphiz/osu-skins/raw/main/skins/skwyn.osk)
 
-## [yugen-dt](https://github.com/norphiz/osu-skins/raw/main/skins/yugen-dt.osk)
+## [yugen](https://github.com/norphiz/osu-skins/raw/main/skins/yugen.osk)
